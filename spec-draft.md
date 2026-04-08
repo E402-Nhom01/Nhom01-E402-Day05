@@ -40,7 +40,7 @@
 **Marginal value:** Rất cao  
 → Model chung KHÔNG biết "nhà tôi là đâu" → càng dùng càng tốt (data moat mạnh)
 
-## **2\. User Stories — 4 paths**
+## **2\. User Stories — 4 paths** (Nguyễn Đức Dũng - 2A202600148)
 
 ### **Feature: Voice → Auto-fill booking**
 
