@@ -4,7 +4,7 @@
 **Track:** XanhSM  
 **Problem statement (1 câu):** *Người dùng đang di chuyển hoặc bận tay phải mất 30–60 giây để đặt xe thủ công; AI voice có thể hiểu ý định và tự điền form đặt xe trong \<5 giây, giảm friction và tăng conversion.*
 
-## **1\. AI Product Canvas** 
+## **1\. AI Product Canvas** (Pham Doan Phuong Anh-2A202600257)
 
 |  | Value | Trust | Feasibility |
 | ----- | ----- | ----- | ----- |
@@ -16,7 +16,7 @@
 **Justify:**  
 *Cost of error rất cao (đặt nhầm xe → mất tiền thật), nên AI chỉ gợi ý (auto-fill), user là người quyết định cuối cùng. Cost of reject ≈ 0\.*
 
-### **Learning signal** (Pham Doan Phuong Anh-2A202600257)
+### **Learning signal** 
 
 1. **User correction đi vào đâu?**  
    → Log lại:  
